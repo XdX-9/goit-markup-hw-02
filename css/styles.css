@@ -1,0 +1,164 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	color: #2e2f42;
+	background-color: #fff;
+}
+ul {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+}
+.header {
+}
+.header-navigation {
+}
+.header-logo {
+	color: #2e2f42;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 1.16667;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+}
+.header-logo span {
+	color: #4d5ae5;
+}
+.header-menu-list {
+	color: #2e2f42;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+}
+.header-menu-list a:visited {
+	color: #2e2f42;
+}
+.header-menu-item {
+}
+.header-contacts {
+	color: #434455;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+}
+.header-adress-list {
+}
+.header-adress-list-item {
+}
+.main {
+}
+.main-intro {
+	background-color: #2e2f42;
+}
+.main-intro-title {
+	color: #fff;
+	font-weight: 700;
+	font-size: 56px;
+	line-height: 1.07143;
+	letter-spacing: 0.02em;
+	text-align: center;
+}
+.main-intro-btn {
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.04em;
+}
+.main-services {
+	background-color: #fff;
+}
+.main-services-title {
+}
+.main-services-list {
+}
+.main-services-list-item {
+}
+.main-services-list-title {
+	color: #2e2f42;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+}
+.main-services-list-text {
+	color: #5b5b6a;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+}
+.main-our-team {
+}
+.main-our-team-title {
+	color: #2e2f42;
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 1.11111;
+	letter-spacing: 0.02em;
+	text-align: center;
+}
+.main-our-team-list {
+}
+.main-our-team-item {
+}
+.main-our-team-image {
+}
+.main-our-team-subtitle {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+}
+.main-our-team-specificity {
+	color: #4f5060;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+}
+.main-portfolio {
+}
+.main-portfolio-title {
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 1.11111;
+	letter-spacing: 0.02em;
+	text-align: center;
+}
+.main-portfolio-list {
+}
+.main-portfolio-list-item {
+}
+.main-portfolio-image {
+}
+.main-portfolio-subtitle {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+}
+.main-portfolio-text {
+	color: #434455;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+}
+.footer {
+	background-color: #2e2f42;
+}
+.footer-logo {
+	color: #c2c2ce;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 1.16667;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+}
+.footer-logo span {
+	color: #4d5ae5;
+}
+.footer-text {
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #dbdbe6;
+}
