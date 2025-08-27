@@ -48,12 +48,10 @@ a {
 .contacts-link:focus {
 	color: #404bbf;
 }
-.main {
-}
-.main-intro {
+.intro {
 	background-color: #2e2f42;
 }
-.main-intro-title {
+.intro-title {
 	color: #fff;
 	font-weight: 700;
 	font-size: 56px;
@@ -61,36 +59,43 @@ a {
 	letter-spacing: 0.02em;
 	text-align: center;
 }
-.main-intro-btn {
+.intro-btn {
+	background-color: #4d5ae5;
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 1.5;
 	letter-spacing: 0.04em;
+	color: #ffffff;
+	cursor: pointer;
 }
-.main-services {
+.intro-btn:hover,
+.intro-btn:focus {
+	color: #404bbf;
 }
-.main-services-title {
+.services {
 }
-.main-services-list {
+.services-title {
 }
-.main-services-list-item {
+.services-list {
 }
-.main-services-list-title {
+.services-list-item {
+}
+.services-list-title {
 	color: #2e2f42;
 	font-weight: 500;
 	font-size: 20px;
 	line-height: 1.2;
 	letter-spacing: 0.02em;
 }
-.main-services-list-text {
-	color: #5b5b6a;
+.services-list-text {
+	color: #434455;
 	font-size: 16px;
 	line-height: 1.5;
 	letter-spacing: 0.02em;
 }
-.main-our-team {
+.our-team {
 }
-.main-our-team-title {
+.our-team-title {
 	color: #2e2f42;
 	font-weight: 700;
 	font-size: 36px;
@@ -98,46 +103,46 @@ a {
 	letter-spacing: 0.02em;
 	text-align: center;
 }
-.main-our-team-list {
+.our-team-list {
 }
-.main-our-team-item {
+.our-team-item {
 }
-.main-our-team-image {
+.our-team-image {
 }
-.main-our-team-subtitle {
+.our-team-subtitle {
 	font-weight: 500;
 	font-size: 20px;
 	line-height: 1.2;
 	letter-spacing: 0.02em;
 }
-.main-our-team-specificity {
+.our-team-specificity {
 	color: #4f5060;
 	font-size: 16px;
 	line-height: 1.5;
 	letter-spacing: 0.02em;
 }
-.main-portfolio {
+.portfolio {
 }
-.main-portfolio-title {
+.portfolio-title {
 	font-weight: 700;
 	font-size: 36px;
 	line-height: 1.11;
 	letter-spacing: 0.02em;
 	text-align: center;
 }
-.main-portfolio-list {
+.portfolio-list {
 }
-.main-portfolio-list-item {
+.portfolio-list-item {
 }
-.main-portfolio-image {
+.portfolio-image {
 }
-.main-portfolio-subtitle {
+.portfolio-subtitle {
 	font-weight: 500;
 	font-size: 20px;
 	line-height: 1.2;
 	letter-spacing: 0.02em;
 }
-.main-portfolio-text {
+.portfolio-text {
 	color: #434455;
 	font-size: 16px;
 	line-height: 1.5;
