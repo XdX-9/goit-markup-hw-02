@@ -72,14 +72,6 @@ a {
 .intro-btn:focus {
 	color: #404bbf;
 }
-.services {
-}
-.services-title {
-}
-.services-list {
-}
-.services-list-item {
-}
 .services-list-title {
 	color: #2e2f42;
 	font-weight: 500;
@@ -94,8 +86,10 @@ a {
 	letter-spacing: 0.02em;
 }
 .our-team {
+	background-color: #f4f4fd;
 }
 .our-team-title {
+	text-transform: capitalize;
 	color: #2e2f42;
 	font-weight: 700;
 	font-size: 36px;
@@ -104,19 +98,17 @@ a {
 	text-align: center;
 }
 .our-team-list {
-}
-.our-team-item {
-}
-.our-team-image {
+	background-color: #ffffff;
 }
 .our-team-subtitle {
+	color: #2e2f42;
 	font-weight: 500;
 	font-size: 20px;
 	line-height: 1.2;
 	letter-spacing: 0.02em;
 }
 .our-team-specificity {
-	color: #4f5060;
+	color: #434455;
 	font-size: 16px;
 	line-height: 1.5;
 	letter-spacing: 0.02em;
