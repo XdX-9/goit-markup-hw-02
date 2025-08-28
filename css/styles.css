@@ -19,6 +19,18 @@ a {
 	letter-spacing: 0.03em;
 	text-transform: uppercase;
 }
+.section-subtitle {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+}
+.section-text {
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
+}
 .header-logo .logo-part {
 	color: #2e2f42;
 }
@@ -45,7 +57,9 @@ a {
 .nav-link:hover,
 .nav-link:focus,
 .contacts-link:hover,
-.contacts-link:focus {
+.contacts-link:focus,
+.intro-btn:hover,
+.intro-btn:focus {
 	color: #404bbf;
 }
 .intro {
@@ -68,21 +82,11 @@ a {
 	color: #ffffff;
 	cursor: pointer;
 }
-.intro-btn:hover,
-.intro-btn:focus {
-	color: #404bbf;
-}
 .services-list-title {
 	color: #2e2f42;
 	font-weight: 500;
 	font-size: 20px;
 	line-height: 1.2;
-	letter-spacing: 0.02em;
-}
-.services-list-text {
-	color: #434455;
-	font-size: 16px;
-	line-height: 1.5;
 	letter-spacing: 0.02em;
 }
 .our-team {
@@ -102,18 +106,13 @@ a {
 }
 .our-team-subtitle {
 	color: #2e2f42;
-	font-weight: 500;
-	font-size: 20px;
-	line-height: 1.2;
-	letter-spacing: 0.02em;
 }
+
 .our-team-specificity {
 	color: #434455;
 	font-size: 16px;
 	line-height: 1.5;
 	letter-spacing: 0.02em;
-}
-.portfolio {
 }
 .portfolio-title {
 	font-weight: 700;
@@ -126,26 +125,9 @@ a {
 }
 .portfolio-list-item {
 }
-.portfolio-image {
-}
-.portfolio-subtitle {
-	font-weight: 500;
-	font-size: 20px;
-	line-height: 1.2;
-	letter-spacing: 0.02em;
-}
-.portfolio-text {
-	color: #434455;
-	font-size: 16px;
-	line-height: 1.5;
-	letter-spacing: 0.02em;
-}
 .page-footer {
 	background-color: #2e2f42;
 }
 .footer-text {
-	font-size: 16px;
-	line-height: 1.5;
-	letter-spacing: 0.02em;
 	color: #dbdbe6;
 }
