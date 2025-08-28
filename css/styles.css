@@ -114,16 +114,10 @@ a {
 	text-align: center;
 }
 .our-team-item {
-	background-color: #ffffff;
+	background: #ffffff;
 }
-.our-team-subtitle {
+.our-team-subtitle .section-subtitle {
 	color: #2e2f42;
-}
-.our-team-specificity {
-	color: #434455;
-	font-size: 16px;
-	line-height: 1.5;
-	letter-spacing: 0.02em;
 }
 
 .portfolio-title {
