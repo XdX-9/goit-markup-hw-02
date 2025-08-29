@@ -25,6 +25,7 @@ a {
 	font-size: 20px;
 	line-height: 1.2;
 	letter-spacing: 0.02em;
+	color: #2e2f42;
 }
 
 .section-text {
@@ -116,9 +117,6 @@ a {
 .our-team-item {
 	background: #ffffff;
 }
-.our-team-subtitle .section-subtitle {
-	color: #2e2f42;
-}
 
 .portfolio-title {
 	font-weight: 700;
@@ -127,9 +125,6 @@ a {
 	letter-spacing: 0.02em;
 	text-align: center;
 	text-transform: capitalize;
-	color: #2e2f42;
-}
-.portfolio-subtitle {
 	color: #2e2f42;
 }
 .portfolio-text .section-text {
